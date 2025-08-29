@@ -8,5 +8,6 @@ matplotlib==3.9.2
 python-docx==1.2.0
 xhtml2pdf==0.2.17
 PyMuPDF==1.26.4
+gunicorn
 
 
